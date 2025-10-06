@@ -20,4 +20,8 @@ export default Minicurso;
 - git status
 - git add .
 - git commit -m ""
+- git log
+- git push
+
+
 Mini Curso sobre git 
