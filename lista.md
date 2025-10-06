@@ -7,4 +7,6 @@
 - git branch
 - git pull
 - git merge
-- git touch
+- touch
+- git config user.name
+- git config user.email
