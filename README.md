@@ -14,4 +14,10 @@ function Minicurso({curso}){
 
 export default Minicurso;
 ```
+
+### Alguns comandos:
+- git clone
+- git status
+- git add .
+- git commit -m ""
 Mini Curso sobre git 
